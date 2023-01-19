@@ -12,5 +12,5 @@ This project create with Golang
 <br><br>
 
 ## BEFORE RUN
-- config .env file (database and jwt_secret)
+- create folder config .env file (database and jwt_secret) on root directory
 - go run main.go
